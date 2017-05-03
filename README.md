@@ -2,6 +2,8 @@
 
 A DNA inspired proposal for aeternity.
 
+![showcase](showcase.png)
+
 **Features:**
 
 * Two color schemes: Dark and Light
