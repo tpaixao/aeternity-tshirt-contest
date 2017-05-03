@@ -12,4 +12,4 @@ A DNA inspired proposal for aeternity.
 * Mozilla's Fira Sans open source font
 
 
-**Note**: back is currently blanck. If you'd like a back design, let me know. I have a few ideas but would need to know more about what you would like to have on them.
+**Note**: back is currently blank. If you'd like a back design, let me know. I have a few ideas but would need to know more about what you want from the t-shirts.
